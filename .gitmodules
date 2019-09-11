@@ -1,0 +1,3 @@
+[submodule "ZeroMQProxy"]
+	path = ZeroMQProxy
+	url = git@github.tangramflex.tech:mrgator85/ZeroMQProxy.git
