@@ -1,2 +1,2 @@
-# ZMQProxy-Container
+# ZMQProxy-Docker
 Dockerized ZMQ Proxy
